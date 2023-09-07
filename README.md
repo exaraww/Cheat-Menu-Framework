@@ -127,8 +127,6 @@ Any archive I share must be extracted how I say (if applicable), not into a fold
 - Added new cheat: Infinite Money (AKA Trade Points)
 - Fixed - Unlock Tool module no longer plays sounds when unlocking all achievements. Make sure to get the update from the `Required Modules` section.
 - Split included modules out into their own downloads.
-- Attached an archive with all current downloads. Removed in favor of mirror on MEGA.
-- Added MEGA mirror for downloads.
 - Updated Race Changer to support Pure Moot (yes the tail). Compatibility with previous game versions potentially definitely broken... Feedback required Confirmed by feedback.
 - Renamed `main.rb` to `__init__.rb`, wrapped mod specific code into a module.
 - Fixed - Forgot to add `FileGetter.` to `load_from_list` function call in CheatsMod module.
@@ -136,7 +134,6 @@ Any archive I share must be extracted how I say (if applicable), not into a fold
 - New CheatModule: Sea Witch Awaken Skill - When using the Race Changer to change race to either Pre or True Deepone, the Awaken skill is learnt, for other races it is removed.
 - Removed - Pregnancy submenu in favor of the new CheatModule which replaces it.
 - Removed - UnlockTool translations removed as a previous update negated the need to translate the CheatModule.
-- Removed AnonFiles links - AnonFiles has been shutdown
 </details>
 
 ## Downloads:
@@ -148,11 +145,11 @@ ModularCheatsMod.zip - Extract as is to `ModScripts/_Mods/`, enable and re-order
 
 Note: Other mods not required, they are just what is in my load order.
 
-1.
+1. ![](/../Assets/instruc_1.png)
 
-2.
+2. ![](/../Assets/instruc_2.png)
 
-3.
+3. ![](/../Assets/instruc_3.png)
 
 </details>
 
