@@ -45,7 +45,7 @@ Any archive I share must be extracted how I say (if applicable), not into a fold
 - Redesign the menu to match the pause menu (maybe even add a Cheats entry to the pause menu to free up a hotkey) [TBD]
 <hr/>
 
-## Modular Cheats Mod:
+## Changelog:
 <details>
 <summary>Changelog</summary>
 
