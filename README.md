@@ -136,10 +136,7 @@ Any archive I share must be extracted how I say (if applicable), not into a fold
 - Removed - UnlockTool translations removed as a previous update negated the need to translate the CheatModule.
 </details>
 
-## Downloads:
-
-ModularCheatsMod.zip - Extract as is to `ModScripts/_Mods/`, enable and re-order `Cheats Mod` in NyxLauncher.
-
+## Mod Managing:
 <details>
 <summary>Mod Management Instructions:</summary>
 
@@ -152,32 +149,6 @@ Note: Other mods not required, they are just what is in my load order.
 3. ![](/../Assets/instruc_3.png)
 
 </details>
-
-<hr/>
-
-## Official Addon Modules:
-Installing these is as simple as if you were installing the main mod as above. (Extract as is to `ModScripts/_Mods/`).
-
-- Simple Infinite Stats Cheat - Original behaviour.
-- Configurable Infinite Stats Cheat - Highly configurable, at the cost of performance (here's hoping I can optimize it)
-- Infinite Money Cheat - While cheat is active, and in an active save, Trade Points stay at 99,999.
-- Unlock Tool - Adds console commands to unlock/reset CG's and Achievements. This version does so silently (no more ear rape), allow it to overwrite the files in the main download.
-- Abomination Skills - Adds Abomination skills when race is Abomination, removes if not.
-- Auto-Bandage - Adds the Auto-Bandage cheat (Wounds are automatically healed)
-- Inventory Editor - Adds the inventory editors for Items, Weapons and Armor.
-- Hair Color Editor - Adds the Hair Color Editor.
-- Unequip Items - Adds a hotkey to take off equipment (with optional forced strip)
-- Sea Witch Awaken Skill - Adds Awaken skill when race is either PreDeepone or TrueDeepone, removes if not.
-
-<hr/>
-
-## Community-Made Addon Modules:
-Installing these is as simple as if you were installing the main mod as above. (Extract as is to `ModScripts/_Mods/`). Click here for the folder with all modules.
-
-- Stats Editor by UltraRev - Adds an editor for adding/removing States. States cover everything from traits, status effects, piercings, etc.
-- Pregnancy by niemand95 - Replaces the old Pregnancy submenu. Now with improved pregnancy stuff.
-
-Note: Once tested and checked over I will add a mirror of these addons.
 
 <hr/>
 
