@@ -1,3 +1,6 @@
+## About this branch:
+This branch is an archive of the mod from before the rename and further modularization. There will be no further changes to the code here.
+
 # Modular Cheats Mod (a.k.a MCM)
 An updated, module-based version of the Cheats Mod.
 
